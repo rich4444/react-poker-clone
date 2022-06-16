@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0dea9cd0.css",
+    "main.js": "./static/js/main.a0e97b84.js",
+    "static/media/background-vide.mp4": "./static/media/background-vide.b04541aa731909b1175d.mp4",
+    "static/media/dragon.webp": "./static/media/dragon.33922be5f417a9c5620f.webp",
+    "static/media/2022_06 apl content logo.webp": "./static/media/2022_06 apl content logo.c9a1034fad38ad602e26.webp",
+    "static/media/chart1.webp": "./static/media/chart1.5a6dce40725b75b60e04.webp",
+    "static/media/Time Box 3.webp": "./static/media/Time Box 3.ad53f4fad9b3d7263601.webp",
+    "static/media/20 JADE TROPHY EVENTS.webp": "./static/media/20 JADE TROPHY EVENTS.72a6186a60a342924432.webp",
+    "static/media/APLLogo2 copy.webp": "./static/media/APLLogo2 copy.c90926fcf2fff128e32f.webp",
+    "static/media/APLLogo2.webp": "./static/media/APLLogo2.2e53d818e968b5ba1997.webp",
+    "static/media/Line Light - 01.webp": "./static/media/Line Light - 01.3bbf337d07c6a42feb26.webp",
+    "index.html": "./index.html",
+    "main.0dea9cd0.css.map": "./static/css/main.0dea9cd0.css.map",
+    "main.a0e97b84.js.map": "./static/js/main.a0e97b84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dea9cd0.css",
+    "static/js/main.a0e97b84.js"
+  ]
+}
